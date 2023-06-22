@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203524703599",
+    "project_id": "hackx-5bb8c",
+    "storage_bucket": "hackx-5bb8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203524703599:android:3a1047b89ca803a50cd49a",
+        "android_client_info": {
+          "package_name": "com.hackx.hackx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203524703599-0rld8ij324ki63q1veqm17fom5v52gb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR6CpuE0Ke2fsfgxjfFTDFpg7tVVu83go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203524703599-0rld8ij324ki63q1veqm17fom5v52gb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
